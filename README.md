@@ -11,5 +11,5 @@ in MainActivity.
 your favourite.
 3. Go back to Main Activity and see your selected list.
 
-Things not present yet and has to implemented.
+Things not present yet and has to implemented:
 * No persistence of data. Will be adding shortly.
